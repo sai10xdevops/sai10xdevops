@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sai Shanmukkha Surapaneni</h1>
 <h3 align="center">Passionate Cloud DevOps Engineer / SRE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saishasai10xdevopsnmukkha&label=Profile%20views&color=0e75b6&style=flat" alt="sai10xdevops" /> </p>
 
 - 🔭 Currently working on designing and optimizing AWS cloud infrastructure, automating CI/CD pipelines using tools like Terraform, Kubernetes (EKS), and Ansible.
 - 🌱 Actively learning advanced cloud security, serverless architectures with AWS Lambda & Step Functions, and applying AIOps for smarter automation and incident response.
